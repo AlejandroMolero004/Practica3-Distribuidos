@@ -20,3 +20,6 @@ Sigue los siguientes pasos para ejecutar el proyecto correctamente:
 3. Por ultimo debes ejecutar el cliente con este codigo:
    ```sh
    java ClienteBiblioteca -ORBInitialHost localhost -ORBInitialPort 1050
+
+DIAGEMA DE FLUJO
+![Diagrama de flujo](https://github.com/user-attachments/assets/ba6e8e89-2e31-4873-968e-56ff3cfa3ace)
